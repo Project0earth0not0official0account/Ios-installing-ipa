@@ -17,7 +17,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.scarlet.app</string> <key>bundle-version</key>
+                <string>com.minecraftearthtf.app</string> <key>bundle-version</key>
                 <string>2.0.0</string> <key>kind</key>
                 <string>software</string>
                 <key>title</key>

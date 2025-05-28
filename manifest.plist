@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://download1529.mediafire.com/8vi5xbntrr1gGTeWgV_2icRUdKG4N58l27lZNgugu-1cfB8U4de6CPpIMtDHIlKRdXVX-bYHjlEntt87HgdUPSsF_VVPsgrVE7efdQ_ththl6bo3Y28n3eQR3N7U8GGBgyQbLzo4fRCuc6MQMDBE_DvUMyIiDXE6BHgMLwtGkz7MGA/ntnid5xug9qi1x6/unc0ver_Release_8.0.2.ipa</string> <!-- URL до IPA -->
+                </dict>
+                <!-- Опционально: иконки -->
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>url</key>
+                    <string>https://your-domain.com/60x60.png</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>url</key>
+                    <string>https://your-domain.com/76x76.png</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>science.xnu.undecimus</string> <!-- Из вашего plist -->
+                <key>bundle-version</key>
+                <string>6.0.0</string> <!-- Версия приложения -->
+                <key>kind</key>
+                <string>software</string>
+                <key>platform-identifier</key>
+                <string>com.apple.platform.iphoneos</string>
+                <key>title</key>
+                <string>unc0ver</string> <!-- Имя приложения -->
+                <key>minimum-os-version</key>
+                <string>14.5.1</string> <!-- Из ключа ALTFugu14UntetherMinimumVersion -->
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>

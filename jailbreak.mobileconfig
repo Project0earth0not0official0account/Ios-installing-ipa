@@ -12,20 +12,24 @@
             <key>IsRemovable</key>
             <true/>
             <key>Label</key>
-            <string>Джейлбрейк</string> <key>PayloadDescription</key>
+            <string>Джейлбрейк</string>
+            <key>PayloadDescription</key>
             <string>Настраивает веб-клип для быстрого доступа к сайту.</string>
             <key>PayloadDisplayName</key>
             <string>Веб-клип Джейлбрейк</string>
             <key>PayloadIdentifier</key>
             <string>com.unc0ver.webclip.jailbreak</string>
             <key>PayloadOrganization</key>
-            <string>Jailbreak Soluions</string> <key>PayloadType</key>
+            <string>Jailbreak Soluions</string>
+            <key>PayloadType</key>
             <string>com.apple.webClip</string>
             <key>PayloadUUID</key>
-            <string>01971c6d-de26-773d-a799-c4f47d4e2c9f</string> <key>PayloadVersion</key>
+            <string>01971c6d-de26-773d-a799-c4f47d4e2c9f</string>
+            <key>PayloadVersion</key>
             <integer>1</integer>
             <key>URL</key>
-            <string>https://work.ink/1ZT5/jailbreak</string> </dict>
+            <string>https://work.ink/1ZT5/jailbreak</string>
+        </dict>
     </array>
     <key>PayloadDisplayName</key>
     <string>Настройки Веб-клипа</string>
@@ -34,7 +38,8 @@
     <key>PayloadRemovalDisallowed</key>
     <false/>
     <key>PayloadUUID</key>
-    <string>01971c6f-7da5-7ad9-a045-aa5c3fcd1d6b</string> <key>PayloadVersion</key>
+    <string>01971c6f-7da5-7ad9-a045-aa5c3fcd1d6b</string>
+    <key>PayloadVersion</key>
     <integer>1</integer>
     <key>PayloadType</key>
     <string>Configuration</string>

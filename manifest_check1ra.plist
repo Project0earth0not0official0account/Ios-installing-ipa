@@ -7,15 +7,12 @@
         <dict>
             <key>assets</key>
             <array>
-                <!-- Основной IPA -->
                 <dict>
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
                     <string>https://github.com/BlizzardPizza/checkra1n/releases/download/1.0/checkra1n.ipa</string>
                 </dict>
-                
-                <!-- Иконки (адаптировано под ваши CFBundleIconFiles) -->
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
@@ -37,7 +34,6 @@
                     <string>https://project0earth0not0official0account.github.io/ios-installing-ipa/icon@3x.png</string>
                 </dict>
             </array>
-            
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
@@ -52,13 +48,9 @@
                 <string>checkra1n</string>
                 <key>minimum-os-version</key>
                 <string>10.0</string>
-                
-                <!-- Дополнительные параметры из вашего Info.plist -->
                 <key>device-family</key>
                 <array>
-                    <integer>1</integer> <!-- iPhone -->
-                    <integer>2</integer> <!-- iPad -->
-                </array>
+                    <integer>1</integer> <integer>2</integer> </array>
                 <key>supported-orientations</key>
                 <array>
                     <string>UIInterfaceOrientationPortrait</string>
